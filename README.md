@@ -15,7 +15,7 @@ In this project, Implementing Different classifications algorithms using python 
 
 ## Decision Trees
 <p align="center">
-  <img src="./decision-tree.jpg">
+  <img src="./decision-tree.jpg" width="750">
 </p>
 
 ### Intuition
