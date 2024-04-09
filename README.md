@@ -1,6 +1,6 @@
 <h1 align="center">Classifiers</h1>
 <div align="center">
-    <img src="./imgs/img-intro.jpg" alt="classifiers" width="500" />
+    <img src="./classification.png" alt="classifiers" width="500" />
 </div>
 
 
